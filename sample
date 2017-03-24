@@ -1,0 +1,816 @@
+
+<body>		
+
+
+<!--Accordion section starts from here-->
+<section class="allergies-accordion-section">
+   <!--dropdown for small device-->
+    
+    <ul class="mpdp">
+                <li data-value="SHAKES" data-did="0"> SHAKES </li>
+                <li data-value="BARS" data-did="1"> BARS </li>
+                <li data-value="SOUPS" data-did="2"> SOUPS </li>
+                <li data-value="DESSERTS" data-did="3"> DESSERTS </li>
+            </ul>
+    
+    
+    <div class="grid-max">
+        <div class="clearfix">
+            <div class="ac-main">
+                <div class="desktop-thead"></div>
+                
+                                <div class="ac-button">
+                    <div class="ac-button-text">
+                        SHAKES                    </div>
+                </div>
+                <div class="ac-content" id="ac-content0" data-content="SHAKES">
+                    <div class="mob-table-slider"></div>
+                     <div class="mob-table-slider-container">
+                        <div class="blue-strip">
+                            <ul class="blue-strip-table" id="ac-content-ul0" data-content="SHAKES">
+                                                                <li><p>Product</p></li>
+                                                            <li><p>Gluten</p></li>
+                                                            <li><p>Soy</p></li>
+                                                            <li><p>Dairy</p></li>
+                                                            <li><p>Nuts</p></li>
+                                                            <li><p>Eggs</p></li>
+                                                            <li><p>Fish oil</p></li>
+                                                            <li><p>Phenyl <br>alanine</p></li>
+                                                        </ul>
+                        </div>
+                         
+                        <div class="ac-content-inner" id="ac-content-inner0">
+                                                        <ul class="content-table" id="ac-content-table0">
+                                                                
+                                <li><p> OPTIFAST VLCD  Chocolate  Shake  </p></li>
+                                
+                                                                
+                                <li><p> #no </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                                <li><p> #no </p></li>
+                                
+                                                                
+                                <li><p> May contain traces </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                            </ul>
+                            
+                                                        <ul class="content-table" id="ac-content-table0">
+                                                                
+                                <li><p> OPTIFAST VLCD  Vanilla Shake  </p></li>
+                                
+                                                                
+                                <li><p> #no </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                                <li><p> #no </p></li>
+                                
+                                                                
+                                <li><p> May contain traces </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                            </ul>
+                            
+                                                        <ul class="content-table" id="ac-content-table0">
+                                                                
+                                <li><p> OPTIFAST VLCD  Strawberry Shake  </p></li>
+                                
+                                                                
+                                <li><p> #no </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                                <li><p> #no </p></li>
+                                
+                                                                
+                                <li><p> May contain traces </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                            </ul>
+                            
+                                                    </div>
+                      </div> <!--mob-table-slider-container-->
+                </div> <!--ac-content-->
+                                <div class="ac-button">
+                    <div class="ac-button-text">
+                        BARS                    </div>
+                </div>
+                <div class="ac-content" id="ac-content1" data-content="BARS">
+                    <div class="mob-table-slider"></div>
+                     <div class="mob-table-slider-container">
+                        <div class="blue-strip">
+                            <ul class="blue-strip-table" id="ac-content-ul1" data-content="BARS">
+                                                                <li><p>Product</p></li>
+                                                            <li><p>Gluten</p></li>
+                                                            <li><p>Soy</p></li>
+                                                            <li><p>Dairy</p></li>
+                                                            <li><p>Nuts</p></li>
+                                                            <li><p>Eggs</p></li>
+                                                            <li><p>Fish oil</p></li>
+                                                            <li><p>Phenyl<br>alanine</p></li>
+                                                        </ul>
+                        </div>
+                         
+                        <div class="ac-content-inner" id="ac-content-inner1">
+                                                        <ul class="content-table" id="ac-content-table1">
+                                                                
+                                <li><p> OPTIFAST VLCD  Berry Crunch Bar  </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                                <li><p> May contain traces </p></li>
+                                
+                                                                
+                                <li><p> #no </p></li>
+                                
+                                                                
+                                <li><p> #no </p></li>
+                                
+                                                                
+                                <li><p> #no </p></li>
+                                
+                                                                
+                            </ul>
+                            
+                                                        <ul class="content-table" id="ac-content-table1">
+                                                                
+                                <li><p> OPTIFAST VLCD Cappuccino Bar  </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                                <li><p> May contain traces </p></li>
+                                
+                                                                
+                                <li><p> #no </p></li>
+                                
+                                                                
+                                <li><p> #no </p></li>
+                                
+                                                                
+                                <li><p> #no </p></li>
+                                
+                                                                
+                            </ul>
+                            
+                                                    </div>
+                      </div> <!--mob-table-slider-container-->
+                </div> <!--ac-content-->
+                                <div class="ac-button">
+                    <div class="ac-button-text">
+                        SOUPS                    </div>
+                </div>
+                <div class="ac-content" id="ac-content2" data-content="SOUPS">
+                    <div class="mob-table-slider"></div>
+                     <div class="mob-table-slider-container">
+                        <div class="blue-strip">
+                            <ul class="blue-strip-table" id="ac-content-ul2" data-content="SOUPS">
+                                                                <li><p>Product</p></li>
+                                                            <li><p>Gluten</p></li>
+                                                            <li><p>Soy</p></li>
+                                                            <li><p>Dairy</p></li>
+                                                            <li><p>Nuts</p></li>
+                                                            <li><p>Eggs</p></li>
+                                                            <li><p>Fish oil</p></li>
+                                                            <li><p>Phenyl<br>alanine</p></li>
+                                                        </ul>
+                        </div>
+                         
+                        <div class="ac-content-inner" id="ac-content-inner2">
+                                                        <ul class="content-table" id="ac-content-table2">
+                                                                
+                                <li><p> OPTIFAST VLCD  Chicken Soup  </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                                <li><p> #no </p></li>
+                                
+                                                                
+                                <li><p> May contain traces </p></li>
+                                
+                                                                
+                                <li><p> #no </p></li>
+                                
+                                                                
+                                <li><p> #no </p></li>
+                                
+                                                                
+                            </ul>
+                            
+                                                        <ul class="content-table" id="ac-content-table2">
+                                                                
+                                <li><p> OPTIFAST VLCD  Tomato Soup  </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                                <li><p> #no </p></li>
+                                
+                                                                
+                                <li><p> May contain traces </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                                <li><p> #no </p></li>
+                                
+                                                                
+                            </ul>
+                            
+                                                    </div>
+                      </div> <!--mob-table-slider-container-->
+                </div> <!--ac-content-->
+                                <div class="ac-button">
+                    <div class="ac-button-text">
+                        DESSERTS                    </div>
+                </div>
+                <div class="ac-content" id="ac-content3" data-content="DESSERTS">
+                    <div class="mob-table-slider"></div>
+                     <div class="mob-table-slider-container">
+                        <div class="blue-strip">
+                            <ul class="blue-strip-table" id="ac-content-ul3" data-content="DESSERTS">
+                                                                <li><p>Product</p></li>
+                                                            <li><p>Gluten</p></li>
+                                                            <li><p>Soy</p></li>
+                                                            <li><p>Dairy</p></li>
+                                                            <li><p>Nuts</p></li>
+                                                            <li><p>Eggs</p></li>
+                                                            <li><p>Fish oil</p></li>
+                                                            <li><p>Phenyl<br>alanine</p></li>
+                                                        </ul>
+                        </div>
+                         
+                        <div class="ac-content-inner" id="ac-content-inner3">
+                                                        <ul class="content-table" id="ac-content-table3">
+                                                                
+                                <li><p> OPTIFAST VLCD  Chocolate Dessert  </p></li>
+                                
+                                                                
+                                <li><p> #no </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                                <li><p> #no </p></li>
+                                
+                                                                
+                                <li><p> May contain traces </p></li>
+                                
+                                                                
+                                <li><p> #no </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                            </ul>
+                            
+                                                        <ul class="content-table" id="ac-content-table3">
+                                                                
+                                <li><p> OPTIFAST VLCD  Lemon Crème Dessert  </p></li>
+                                
+                                                                
+                                <li><p> #no </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                                <li><p> #no </p></li>
+                                
+                                                                
+                                <li><p> May contain traces </p></li>
+                                
+                                                                
+                                <li><p> #no </p></li>
+                                
+                                                                
+                                <li><p> #yes </p></li>
+                                
+                                                                
+                            </ul>
+                            
+                                                    </div>
+                      </div> <!--mob-table-slider-container-->
+                </div> <!--ac-content-->
+                                
+            </div><!--ac-main--> 
+        </div>
+    </div>
+</section>
+<!--Accordion section  ends here-->
+<script type="application/javascript" src="http://192.168.1.9/optifast-me_com/sites/all/themes/optifast/assets/js/slick.min.js"></script>
+<script src="http://192.168.1.9/optifast-me_com/sites/all/themes/optifast/assets//js/readmore.min.js"></script>
+<script type="text/javascript">
+    /*slider initializations*/
+    var mobtitleSlider = {
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                arrows: true,
+                accesibility: false,
+                draggable: false,
+                fade: true,
+                rtl: false,
+                //asNavFor: '.ac-content-inner'
+            }
+    var mobcontentSlider = {
+        draggable: false,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        arrows: false,
+        draggable: false,
+        fade: true,
+        asNavFor: '.mob-table-slider',
+        rtl: false,
+    }
+    
+    
+   $(document).ready(function() {
+    /*hiding unanter elements*/
+    $('.ac-content').hide();
+    $('.ac-content:first').addClass("opened-acc");
+    $('.ac-button:first').addClass("on");
+    $('.blue-strip-table').hide();
+    $('.blue-strip-table:first').show();
+    
+    /*Accordion scripts*/
+    $('.ac-button').click(function() {
+        var arr = null;
+        arr = new Array();
+        $('.ac-content').slideUp('normal').removeClass('opened-acc');
+        $('.ac-content-inner').removeClass("added-tb-con");
+        $('.added-tb-con ul').removeClass('added-c-ul');
+        $('.ac-button').removeClass('on');
+        
+        /*generating the slider contents for mobile slider*/
+        if($(this).next().is(':hidden') == true) {
+            $(this).next().slideDown('normal').addClass("opened-acc");
+            $(this).addClass('on');
+            $('.on').next('.ac-content').children('.mob-table-slider-container').children('.ac-content-inner').addClass("added-tb-con");
+            var phrases = [];
+            var phrase = '';
+            $(".added-tb-con ul").find('li:first').each(function(){
+                phrase += "<div>"+$(this).text()+"</div>";
+            });
+            phrases.push(phrase);
+            $(".mob-table-slider").html(phrases);
+         }
+        
+        /*accordion initialization*/
+        var gin = $(this).closest('.ac-main').find('.ac-button').index(this);
+        $('.ac-main').find('.blue-strip-table:first').siblings().hide();
+        $('.ac-main').find('.blue-strip-table:nth-child('+(gin+1)+')').fadeIn(300).siblings().hide();
+        
+        /*slider initialization*/
+        if( $(window).width() < 768 ) {     
+            $('.mob-table-slider').removeClass("slick-initialized slick-slider");
+            setTimeout(function(){
+                $(".added-tb-con .content-table").hide();
+                $(".added-tb-con .content-table:first").show();
+                $('.opened-acc .mob-table-slider').not('.slick-initialized').slick(mobtitleSlider);
+            }, 200);
+        }
+    }); /*click ends here*/
+       
+    /*table blus strip movement*/
+    if( $(window).width() > 768 ) {
+        $('.ac-content:first').slideDown();
+        $( ".blue-strip-table" ).appendTo(".desktop-thead");
+    } else if($(window).width() < 768) {
+        //$('.blue-strip-table').show();
+        /*appending the first li item for dropdown*/
+        var getfirstlidp = $('.mpdp li:first').html();
+        $('.mpdp').prepend('<li class="init">'+getfirstlidp+'</li>');
+        
+        /*blue strip appending*/
+        //$( ".blue-strip-table" ).prependTo(".blue-strip");
+        /*slick slider initialization for slides*/
+        setTimeout(function(){
+            $(".ac-button:first").trigger("click");
+            $('.opened-acc .mob-table-slider').not('.slick-initialized').slick(mobtitleSlider);
+        }, 200);
+        
+        /*getting index to show the paricular table item*/
+        $(".added-tb-con .content-table").hide();
+         $('.mob-table-slider').on('afterChange', function(){
+            var currentmobindex = $('.opened-acc .mob-table-slider').slick('slickCurrentSlide');
+            $(".added-tb-con .content-table").hide();
+            $('.added-tb-con .content-table:eq(' + currentmobindex + ')').fadeIn();
+         });
+        /*hiding the accordion elements*/
+        $(".ac-button").hide();
+        
+        
+        
+        $(".mpdp").on("click", ".init", function() {
+            $(this).closest(".mpdp").children('li:not(.init)').toggle();
+        });
+
+        var allOptions = $(".mpdp").children('li:not(.init)');
+        $(".mpdp").on("click", "li:not(.init)", function() {
+                
+            /*default sropdown scripts*/
+            allOptions.removeClass('selected');
+            $(this).addClass('selected');
+            $(".mpdp").children('.init').html($(this).html());
+            allOptions.hide();
+            
+            /*code for showing tables*/
+            var arr = null;
+            arr = new Array();  
+            $('.ac-content-inner').removeClass("added-tb-con");
+            $('.added-tb-con ul').removeClass('added-c-ul');
+            $('.ac-button').removeClass('on');
+
+            $(".ac-content").removeClass("opened-acc").hide();
+            $(".blue-strip .blue-strip-table").hide();
+            var smdpv = $(this).attr("data-value");
+            var smdpvnu = $(this).attr("data-did");
+            //$(".ac-content").siblings('[data-content=' + smdpv + ']').addClass('opened-acc').show();
+            //$('[data-content=' + smdpv + ']').children('.mob-table-slider-container').children('.ac-content-inner').addClass("added-tb-con");
+            
+            $("#ac-content" + smdpvnu).addClass('opened-acc').show();
+            $("#ac-content-inner" + smdpvnu).addClass("added-tb-con");
+            $("#ac-content" + smdpvnu).find("#ac-content-ul"  + smdpvnu).show();
+            //$(".ac-content.opened-acc").find(".blue-strip-table[data-content=" + smdpv + "]").show();
+            
+            var phrases = [];
+                var phrase = '';
+                $(".added-tb-con ul").find('li:first').each(function(){
+                    phrase += "<div>"+$(this).text()+"</div>";
+                });
+                phrases.push(phrase);
+                $(".mob-table-slider").html(phrases);
+
+             $('.mob-table-slider').removeClass("slick-initialized slick-slider");
+                setTimeout(function(){
+                    $(".added-tb-con .content-table").hide();
+                    $(".added-tb-con .content-table:first").show();
+                    $('.opened-acc .mob-table-slider').not('.slick-initialized').slick(mobtitleSlider);
+                }, 200);    
+
+            //$(".blue-strip .blue-strip-table").hide();
+            //$('.blue-strip .blue-strip-table[data-content=' + smdpv + ']').show();
+            
+        }); /*dropdown event call close here*/
+    }
+       
+    
+    /*resizing window*/
+    var resizeTimer = null;  
+    $(window).resize(function(){
+        clearTimeout(resizeTimer);
+        resizeTimer= setTimeout(function(){ 
+          if( $(window).width() > 768 ) {
+                $( ".blue-strip-table" ).appendTo(".desktop-thead");
+                $('.blue-strip-table').hide();
+                $('.blue-strip-table:first').show();
+            } else if($(window).width() < 768) {
+                $( ".blue-strip-table" ).prependTo(".blue-strip");
+                $('.blue-strip-table').hide();
+                $('.blue-strip-table:first').show();
+            }   
+       }, 1500);
+    });
+       
+
+    });
+    
+                
+    
+                var path_tick = "http://192.168.1.9/optifast-me_com/sites/all/themes/optifast/assets//images/common/right.png";
+                var tick_mark = "<img src='"+path_tick+"'>";
+                
+                var path_cross = "http://192.168.1.9/optifast-me_com/sites/all/themes/optifast/assets//images/common/dash.png";
+                var cross_mark = "<img src='"+path_cross+"'>";
+    
+                /*check yes or no - replacing*/
+                $('a, h1, h2, h3, h4, h5, p, span, .heading, div, li').html(function(index,html){
+                    return html.replace(/#yes/g , tick_mark);
+                });
+               $('a, h1, h2, h3, h4, h5, p, span, .heading, div, li').html(function(index,html){
+                    return html.replace(/#no/g , cross_mark);
+               });
+
+
+    
+</script>
+
+	
+<!-- subscribe POPUP Entitie -->
+<iframe name="votar" style="display:none;"></iframe>
+<div class="subscribe-popup" data-popup="popup-1">
+   <div class="popup-inner">
+   	 	<div class="form-area">
+   		<h3>Subscribe to our newsletter</h3>
+          <div class="clearfix">
+	          	<form role="form" method="POST" action="/optifast-me_com/allergies" class="contact-form" id="subscribe-frm" target="votar">
+		           <input type="text" name="email" class="form-control" placeholder="Your Email Here" id="email">
+		           <span class="error_msg"></span>
+		           <input type="submit" name="submit" value="Subscribe" class="subscribe-btn">
+                           <input type="hidden" value="86dfc816263b3869968478deb6f17aee7f59e713" name="csrf-subscribe" id="csrf-subscribe">
+		           <div class="validation"></div> 
+	           </form>
+          </div>
+   	</div>
+   
+   	<div class="success-message">
+   		<h4>Thank you. You will hear from us soon.</h4>
+   		<img class="img-responsive optifast-logo" src="http://192.168.1.9/optifast-me_com/sites/all/themes/optifast/assets/uploads/header/logo_2.png">
+   	</div>
+	
+	
+	       <a class="popup-close" data-popup-close="popup-1" href="#">x</a>
+   </div>
+</div>
+<!-- subscribe POPUP Entitie -->
+<!-- success POPUP Entitie -->
+<!-- <div class="success-popup">
+    <div class="popup-inner">
+        <h3>Thank you for subscribing we will get back to you soon</h3>
+        <a class="popup-close" href="#">x</a>
+    </div>
+</div> -->
+<!-- success POPUP Entitie -->
+
+<footer class="clearfix footer">
+	<div class="grid-max">
+		<div class="left-panel">
+		<ul>
+                  <!--   -->
+				  
+		<li><a class="" href="JavaScript:Void(0);">Home</a></li><li><a class="" href="http://192.168.1.9/optifast-me_com/terms-of-use">Terms of use</a></li><li><a class="" href="http://192.168.1.9/optifast-me_com/privacy-policy">Privacy policy</a></li><li><a class="" href="http://192.168.1.9/optifast-me_com/sitemap">Sitemap</a></li><li><a class="" href="http://192.168.1.9/optifast-me_com/contact-us">Contact us</a></li>	
+		</ul>
+		<div class="logo">
+			<a href="https://www.nestlehealthscience.com/" target="_blank"><img src="http://192.168.1.9/optifast-me_com/sites/all/themes/optifast/assets/images/common/footer-logo.png"></a>
+		</div>
+		<div class="copy">
+			© 2016 Nestlé Health Science.<br/>Optifast® VLCD™ is a food for special medical purposes and must be used<br/> under the supervision of a health care professional.
+		</div>
+	</div>
+	</div>
+</footer>	
+<div class="overlay"></div>	
+<!--<script src="/assets/js/lib.min.js"></script>-->
+<!-- <script src="/assets/js/jquery-ui.min.js"></script>
+<script src="/assets/js/jquery.mCustomScrollbar.min.js"></script>
+<script src="/assets/js/slick.min.js"></script>
+<script src="/assets/js/custom.min.js"></script> -->
+
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		$(".success-popup .popup-close").click(function(){
+        	$(".success-popup").hide();
+    	});
+
+    	$(".btn-subscribe").click(function(){
+    		$(".form-area").show();
+			$(".success-message").hide();
+    		$(".subscribe-popup .popup-inner .form-control").val("");
+    		$(".validation").hide();
+    	})
+    	
+		/*on click search*/
+		$("#search").val("");
+		$("#edit-search-block-form--4").val("");
+		$("#search-block-form--2").hide();
+
+		$(".search-area .icon").click(function(){
+			var search_value = $("#search").val();
+			$("#edit-search-block-form--4").val(search_value);
+			if ($(".search-area input").val().trim().length>0) {
+				/*$("#edit-submit--2").trigger("click");
+				$("#edit-submit--4").trigger("click");*/
+				$(".search input[type='submit']").click();
+			}
+		});
+		/*key up search*/
+		$("#search").keyup(function(event){
+			var search_value = $("#search").val();
+			$("#edit-search-block-form--4").val(search_value);
+			if ($(".search-area input").val().trim().length>0) {
+				if(event.keyCode == 13){
+					$(".search input[type='submit']").click();
+			    }
+			}
+		});
+
+
+		/*Disclaimer Cookie function*/
+		var cookieToday = new Date();
+	    var expiryDate = new Date(cookieToday.getTime() + (365 * 86400000)); // a year
+	   
+	    $('.agree-btn').click(function(){
+	    	setCookie("disclaimer","true","","/");
+	        //setCookie("disclaimer","true",expiryDate,"/");
+	        $(".disclaimer-overlay").hide();
+	     });
+
+	    if(getCookie("disclaimer")=="true"){
+	        $(".disclaimer-overlay").hide();
+	    }else if(getCookie("disclaimer")==null){
+	       $(".disclaimer-overlay").show();
+	        setCookie("disclaimer","false",expiryDate,"/");
+	    }else if(getCookie("disclaimer")=="false"){
+	        $(".disclaimer-overlay").show();
+	    } 
+	    
+	    function setCookie(name, value, expires, path, theDomain, secure) {
+	        value = escape(value);
+	        var theCookie = name + "=" + value +
+	            ((expires) ? "; expires=" + expires.toGMTString() : "") +
+	            ((path) ? "; path=" + path : "") +
+	            ((theDomain) ? "; domain=" + theDomain : "") +
+	            ((secure) ? "; secure" : "");
+	        document.cookie = theCookie;
+	    }
+
+	    function getCookie(Name) {
+	        var search = Name + "="
+	        if (document.cookie.length > 0) { // if there are any cookies 
+	            var offset = document.cookie.indexOf(search)
+	            if (offset != -1) { // if cookie exists 
+	                offset += search.length
+	                    // set index of beginning of value 
+	                var end = document.cookie.indexOf(";", offset)
+	                    // set index of end of cookie value 
+	                if (end == -1) end = document.cookie.length
+	                return unescape(document.cookie.substring(offset, end))
+	            }
+	        }
+	    }
+	    
+   /* $(function() {
+        $('[data-popup-open]').on('click', function(e)  {
+            var targeted_popup_class = jQuery(this).attr('data-popup-open');
+            $('[data-popup="' + targeted_popup_class + '"]').fadeIn(350);
+    
+            e.preventDefault();
+        });
+    
+
+        $('[data-popup-close]').on('click', function(e)  {
+            var targeted_popup_class = jQuery(this).attr('data-popup-close');
+            $('[data-popup="' + targeted_popup_class + '"]').fadeOut(350);
+    
+            e.preventDefault();
+        });
+    });*/
+
+    var pattern = /^\b[A-Z0-9._%-]+@[A-Z0-9.-]+\.[A-Z]{2,4}\b$/i
+    $('.subscribe-btn').on('click', function (e) {
+        //var focusSet = false;
+       /* if (!$('#email').val()) {
+            if ($("#email").parent().next(".validation").length == 0) 
+            {
+                $("#email").parent().after("<div class='validation'>Please enter email address</div>");
+            }
+            e.preventDefault(); 
+            $('#email').focus();
+            focusSet = true;
+        } else {
+            
+            	$(".success-popup").show();
+			}*/
+			
+			if (!$('#email').val()) { 
+				$(".validation").show();
+									$(".validation").text("Please enter your email!");
+					
+				e.preventDefault();
+			} else if( !pattern.test($('#email').val()) ) {
+				$(".validation").show();
+								$(".validation").text("Please enter a valid email address!");
+					
+				e.preventDefault();
+			} 
+			else {
+				$(".form-area").hide();
+				$(".success-message").show();
+				//return false;
+				//e.preventDefault();
+			}
+
+        
+    });
+		
+	});
+
+	 $('.main-level li:first').addClass("main-level-first");
+
+	 $('.main-level-first a').html(function(index,html){
+        return html.replace(/®/g , "®");
+   	 });
+	 $('.main-level-first a').html(function(index,html){
+        return html.replace(/™/g , "™");
+   	 });
+
+	 $('h1, h2, h3, h4, h5, p, span, .heading').html(function(index,html){
+        return html.replace(/®/g , "");
+   	 });
+	 $('h1, h2, h3, h4, h5, p, span, .heading').html(function(index,html){
+        return html.replace(/™/g , "");
+   	 });
+
+	$(function() {
+        $('[data-popup-open]').on('click', function(e)  {
+            var targeted_popup_class = jQuery(this).attr('data-popup-open');
+            $('[data-popup="' + targeted_popup_class + '"]').fadeIn(350);
+    
+            e.preventDefault();
+        });
+    
+        $('[data-popup-close]').on('click', function(e)  {
+            var targeted_popup_class = jQuery(this).attr('data-popup-close');
+            $('[data-popup="' + targeted_popup_class + '"]').fadeOut(350);
+    
+            e.preventDefault();
+        });
+    });
+	
+
+
+   	
+
+
+</script>
+
+
+	
+</body>
+</html>
